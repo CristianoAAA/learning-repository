@@ -1,2 +1,4 @@
 # projeto-google-glass
 This project serves more to a memory to me in the future when i will look back and see that i got much better.
+
+In July 2023, i decided that i wanted to learn something new, my bestfriend called Sofia, would post some prints of her code, and i would look at it and think "Damn, that is really cool, i want to do that too!" So i researched a little bit and found a free course in portuguese to learn web development, but i procrastinated a lot to start it, it was right there in front of me but i was scared, so after 6 months, January 8, 2024 in a Sunday i started and i was never the same, i got addicted to it, watching and applying what i learned, i loved to learn more and more about programming. So i decided to create a github accont to share my progress. Enjoy! (or not)
